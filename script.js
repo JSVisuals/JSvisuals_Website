@@ -32,7 +32,7 @@ const businessData = {
     /* WHATSAPP */
 
     whatsappNumber:
-        "6301865012",
+        "916301865012",
 
 
     /* EMAIL */
